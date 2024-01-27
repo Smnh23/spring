@@ -1,0 +1,5 @@
+com/holitor/microserviceproduct/model/Product.class
+com/holitor/microserviceproduct/repository/ProductRepository.class
+com/holitor/microserviceproduct/web/controller/ProductController.class
+com/holitor/microserviceproduct/configurations/ApplicationPropertiesConfiguration.class
+com/holitor/microserviceproduct/MicroserviceProductApplication.class
